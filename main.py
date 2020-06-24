@@ -8,6 +8,7 @@ Calculadora para compras em mercado! # Sem interface gráfica, por enquanto :)
 resposta = 's'
 soma = 0.0
 total = 0.0
+salva_total = 0.0
 
 while resposta == 's':  # Repete até que o usuário digite [n] em resposta!
     operador = input('[+] para Somar [-] para Subtrair: ')
